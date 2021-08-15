@@ -1,10 +1,3 @@
-#require "pry"
-#puts "whats your name?"
-
-#input = gets.chomp
-#binding.pry
-#puts "nice to meet you #{input}"
-
 require "sinatra"
 
 before "/" do
